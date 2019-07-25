@@ -1,0 +1,10 @@
+E:\Dev\GitHub\V_Shutdown\V_Shutdown\V_Shutdown\bin\Debug\V_Shutdown.exe.config
+E:\Dev\GitHub\V_Shutdown\V_Shutdown\V_Shutdown\bin\Debug\V_Shutdown.exe
+E:\Dev\GitHub\V_Shutdown\V_Shutdown\V_Shutdown\bin\Debug\V_Shutdown.pdb
+E:\Dev\GitHub\V_Shutdown\V_Shutdown\V_Shutdown\obj\Debug\V_Shutdown.csprojAssemblyReference.cache
+E:\Dev\GitHub\V_Shutdown\V_Shutdown\V_Shutdown\obj\Debug\V_Shutdown.Form1.resources
+E:\Dev\GitHub\V_Shutdown\V_Shutdown\V_Shutdown\obj\Debug\V_Shutdown.Properties.Resources.resources
+E:\Dev\GitHub\V_Shutdown\V_Shutdown\V_Shutdown\obj\Debug\V_Shutdown.csproj.GenerateResource.cache
+E:\Dev\GitHub\V_Shutdown\V_Shutdown\V_Shutdown\obj\Debug\V_Shutdown.csproj.CoreCompileInputs.cache
+E:\Dev\GitHub\V_Shutdown\V_Shutdown\V_Shutdown\obj\Debug\V_Shutdown.exe
+E:\Dev\GitHub\V_Shutdown\V_Shutdown\V_Shutdown\obj\Debug\V_Shutdown.pdb
