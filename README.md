@@ -3,6 +3,7 @@
 ja)
 別に何に使ってもいいけど開発者は責任を一切負いません:D  
 .NETFramewor4.7以降がインストールされている必要があります  
+
 us)
 developers all Not responsible:D  
 You must have .NET Framework 4.7 or later installed  
