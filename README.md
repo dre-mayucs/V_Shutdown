@@ -3,12 +3,12 @@
 ## ja)
 別に何に使ってもいいけど開発者は責任を一切負いません:D  
 .NETFramewor4.7以降がインストールされている必要があります  
-インストールには"V_Shutdown\V_Shutdown\V_Shutdown installer"の実行ファイル(どっちでも)を使ってください  
+インストール => https://github.com/mayu-cs/V_Shutdown/releases
 
 ## us)
 developers all Not responsible:D  
 You must have .NET Framework 4.7 or later installed  
-Please install from "V_Shutdown \ V_Shutdown \ V_Shutdown installer(exe or msi)"  
+install => https://github.com/mayu-cs/V_Shutdown/releases
 
 
 [HP](http://mayu-cs.xyz)   
