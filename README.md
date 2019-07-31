@@ -2,12 +2,12 @@
 
 ## ja)
 別に何に使ってもいいけど開発者は責任を一切負いません:D  
-.NETFramewor4.7以降がインストールされている必要があります  
+.NETFramewor4.7以降がインストールされている必要があります < 重要!  
 インストール => https://github.com/mayu-cs/V_Shutdown/releases
 
 ## us)
 developers all Not responsible:D  
-You must have .NET Framework 4.7 or later installed  
+You must have .NET Framework 4.7 or later installed < Important!  
 install => https://github.com/mayu-cs/V_Shutdown/releases
 
 
